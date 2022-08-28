@@ -1,0 +1,1 @@
+set -x SLACK_TOKEN your_token_here
